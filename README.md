@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on node based web-apps
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about Technologies & Tools listed below
+- 💬 Ask me about Technologies & Tools listed below ⬇️
 - 📫 How to reach me: https://ravindrasinghshah.web.app/#contact
-- ⚡ Fun fact: Coding | Fitness | Beer
+- ⚡ Fun fact: Coding 👨‍💻 | Fitness 🧘‍♂️ | Beer 🍺
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
