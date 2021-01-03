@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about ASP.NET Core, ReactJS, SQL Server, Firebase, Azure, NoSQL
-- 📫 How to reach me: https://ravindrasinghshah.web.app
+- 📫 How to reach me: https://ravindrasinghshah.web.app/#contact
 - ⚡ Fun fact: Coding | Fitness | Beer
 
