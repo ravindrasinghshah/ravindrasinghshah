@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on node based web-apps
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about ASP.NET Core, ReactJS, SQL Server, Firebase, Azure, NoSQL
+- 💬 Ask me about Technologies & Tools listed below
 - 📫 How to reach me: https://ravindrasinghshah.web.app/#contact
 - ⚡ Fun fact: Coding | Fitness | Beer
 
