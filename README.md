@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Technologies & Tools listed below ⬇️
 - 📫 How to reach me: Check out my website for contact details: [click here](https://ravindrasinghshah.web.app/#contact)
 
-- ⚡ Fun fact: Coding 👨‍💻 | Fitness 🧘‍♂️ | Beer 🍺
+- ⚡ Fun fact: Technology 👨‍💻 | Fitness 🧘‍♂️ | Beer 🍺 | Martial Arts 🥋
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
