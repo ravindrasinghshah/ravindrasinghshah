@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 
 ![](https://img.shields.io/badge/DB-Microsoft_SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=CC2927)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
+![](https://img.shields.io/badge/DB-PostgresSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=F80000)
 ![](https://img.shields.io/badge/DB-Couchbase-informational?style=flat&logo=couchbase&logoColor=white&color=EA2328)
 ![](https://img.shields.io/badge/DB-Firestore-informational?style=flat&logo=firebase&logoColor=white&color=FFCA28)
