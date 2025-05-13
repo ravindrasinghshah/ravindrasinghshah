@@ -61,6 +61,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=0080FF)
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=FFCA28)
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089D6)
+![](https://img.shields.io/badge/aws%20-Amazon%20Web%20Services-informational?style=flat&logoColor=white&color=007ACC)
+
 
 ![](https://img.shields.io/badge/Integration-DocuSign-informational?style=flat&logo=docusign&logoColor=white&color=FFCC22)
 ![](https://img.shields.io/badge/Integration-Twilio-informational?style=flat&logo=twilio&logoColor=white&color=F22F46)
