@@ -26,18 +26,21 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Material_UI-informational?style=flat&logo=material-ui&logoColor=white&color=0081CB)
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=0769AD)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/code-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=%23000000)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=DD0031)
 ![](https://img.shields.io/badge/Code-Kendo-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PUG-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HandleBar-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
+![](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=0769AD)
 
 ![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=5C2D91)
 ![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/code-NestJs-informational?style=flat&logo=nestjs&logoColor=white&color=%23EA2857)
+
 
 ![](https://img.shields.io/badge/DB-Microsoft_SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=CC2927)
 ![](https://img.shields.io/badge/DB-PostgresSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
