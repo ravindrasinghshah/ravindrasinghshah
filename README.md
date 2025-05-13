@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Technology 👨‍💻 | Fitness 🧘‍♂️ | Beer 🍺 | Martial Arts 🥋
 
 ## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/IDE-Cursor-informational?style=flat&logoColor=white&color=%23000000)
 ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=5C2D91)
 ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=3DDC84)
