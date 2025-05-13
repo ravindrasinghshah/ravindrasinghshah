@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on node based web-apps
-- 🌱 I’m currently learning Gatsby
+- 🌱 I’m currently learning RAG and GenAI
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Technologies & Tools listed below ⬇️
 - 📫 How to reach me: Check out my website for contact details: [click here](https://ravindrasinghshah.web.app/#contact)
