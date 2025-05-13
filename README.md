@@ -50,6 +50,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/DB-DocumentDB-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089D6)
 ![](https://img.shields.io/badge/DB-Airtable-informational?style=flat&logo=airtable&logoColor=white&color=18BFFF)
 
+![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=%231D63ED)
+![](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=%23326CE5)
+
 ![](https://img.shields.io/badge/PM-NPM-informational?style=flat&logo=npm&logoColor=white&color=CB3837)
 ![](https://img.shields.io/badge/PM-NuGet-informational?style=flat&logo=nuget&logoColor=white&color=004880)
 
