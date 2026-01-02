@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on node based web-apps
-- 🌱 I’m currently learning RAG and GenAI
+- 🔭 I’m currently working on node based apps, RAG and GenAI
+- 🧹 I refactor fast-moving, AI-assisted, vibe-coded experiments into software that future engineers won’t curse at.
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Technologies & Tools listed below ⬇️
 - 📫 How to reach me: Check out my website for contact details: [click here](https://ravindrasinghshah.com/#contact)
