@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: Technology 👨‍💻 | Fitness 🧘‍♂️ | Beer 🍺 | Martial Arts 🥋
 
+## ⚙️ Building
+- [Stickee Notes PWA](https://github.com/ravindrasinghshah/sticky-notes-pwa) - Create, organize and manage sticky notes within customizable buckets with real-time synchronization, offline support and cross-device accessibility.
+- [Prsona](https://www.prsona.is/) - Aggregate your digital presence and share your right profile with right audience.
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/IDE-Cursor-informational?style=flat&logoColor=white&color=%23000000)
 ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
