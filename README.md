@@ -1,4 +1,4 @@
-## Hello World 🚀
+## _Hello World 🚀
 
 <!--
 **ravindrasinghshah/ravindrasinghshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: Technology 👨‍💻 | Fitness 🧘‍♂️ | Beer 🍺 | Martial Arts 🥋
 
-## ⚙️ Building
+## ⚙️ _Building
 - [Stickee Notes PWA](https://github.com/ravindrasinghshah/sticky-notes-pwa) - Create, organize and manage sticky notes within customizable buckets with real-time synchronization, offline support and cross-device accessibility.
 - [Prsona](https://www.prsona.is/) - Aggregate your digital presence and share your right profile with right audience.
 
-## Try Stickee Notes
+### Try Stickee Notes
 [<img width="1405" height="564" alt="image" src="https://github.com/user-attachments/assets/06d2ef13-3da7-4694-ae7b-c1ede3c91bb2" />](https://stickee-notes.web.app/)
 
-## Try Prsona
+### Try Prsona
 [<img width="1379" height="652" alt="image" src="https://github.com/user-attachments/assets/41e85c3e-6b84-4676-937f-9dcc6dd58127" />](https://www.prsona.is/)
 
-## 🔧 Technologies & Tools
+## 🔧 _Technologies & Tools
 ![](https://img.shields.io/badge/IDE-Cursor-informational?style=flat&logoColor=white&color=%23000000)
 ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=5C2D91)
