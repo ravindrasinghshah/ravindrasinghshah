@@ -1,4 +1,4 @@
-## _Hello World 🚀
+  ## _Hello World 🚀
 
 <!--
 **ravindrasinghshah/ravindrasinghshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [<img width="1405" height="564" alt="image" src="https://github.com/user-attachments/assets/06d2ef13-3da7-4694-ae7b-c1ede3c91bb2" />](https://stickee-notes.web.app/)
 
 ### Try Coding Pattern Playground
-[<img width="1405" height="564" alt="image" src="https://github.com/user-attachments/assets/06d2ef13-3da7-4694-ae7b-c1ede3c91bb2" />](https://interviewprep.ravindrasinghshah.com/)
+[<img width="1379" height="564" alt="image" src="https://raw.githubusercontent.com/ravindrasinghshah/coding-pattern-playground/refs/heads/main/public/social-preview.jpg" />](https://interviewprep.ravindrasinghshah.com/)
 
 
 ## 🔧 _Technologies & Tools
