@@ -11,17 +11,22 @@ Here are some ideas to get you started:
 - 💬 Ask me about Technologies & Tools listed below ⬇️
 - 📫 How to reach me: Check out my website for contact details: [click here](https://ravindrasinghshah.com/#contact)
 
-- ⚡ Fun fact: Technology 👨‍💻 | Fitness 🧘‍♂️ | Beer 🍺 | Martial Arts 🥋
+- ⚡ Fun fact: Technology 👨‍💻 | Fitness 🧘‍♂️ | Gaming 🎮
 
 ## ⚙️ _Building
-- [Stickee Notes PWA](https://github.com/ravindrasinghshah/sticky-notes-pwa) - Create, organize and manage sticky notes within customizable buckets with real-time synchronization, offline support and cross-device accessibility.
 - [Prsona](https://www.prsona.is/) - Aggregate your digital presence and share your right profile with right audience.
+- [Stickee Notes PWA](https://github.com/ravindrasinghshah/sticky-notes-pwa) - Create, organize and manage sticky notes within customizable buckets with real-time synchronization, offline support and cross-device accessibility.
+- [Coding Pattern Playground](https://interviewprep.ravindrasinghshah.com/) - Coding Pattern Playground is a local, browser-based interview-prep app with two complementary ways to practice: rebuild common coding templates from memory and review algorithms, data structures, and complexity concepts with multiple-choice quizzes.
+
+### Try Prsona
+[<img width="1379" height="652" alt="image" src="https://github.com/user-attachments/assets/41e85c3e-6b84-4676-937f-9dcc6dd58127" />](https://www.prsona.is/)
 
 ### Try Stickee Notes
 [<img width="1405" height="564" alt="image" src="https://github.com/user-attachments/assets/06d2ef13-3da7-4694-ae7b-c1ede3c91bb2" />](https://stickee-notes.web.app/)
 
-### Try Prsona
-[<img width="1379" height="652" alt="image" src="https://github.com/user-attachments/assets/41e85c3e-6b84-4676-937f-9dcc6dd58127" />](https://www.prsona.is/)
+### Try Coding Pattern Playground
+[<img width="1405" height="564" alt="image" src="https://github.com/user-attachments/assets/06d2ef13-3da7-4694-ae7b-c1ede3c91bb2" />](https://interviewprep.ravindrasinghshah.com/)
+
 
 ## 🔧 _Technologies & Tools
 ![](https://img.shields.io/badge/IDE-Cursor-informational?style=flat&logoColor=white&color=%23000000)
