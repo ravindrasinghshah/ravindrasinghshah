@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 ### Try Coding Pattern Playground
 [<img width="1379" height="564" alt="image" src="https://raw.githubusercontent.com/ravindrasinghshah/coding-pattern-playground/refs/heads/main/public/social-preview.jpg" />](https://interviewprep.ravindrasinghshah.com/)
 
+## ⚙️ _Hackathon Projects
+- [CockroachDB × AWS Hackathon - Build with Agentic Memory - Agentic Ticket Support System](https://github.com/ravindrasinghshah/agentic-ticket-support-system) - An asynchronous AI customer-support application built for the CockroachDB × AWS Hackathon. Customers submit tickets through a React application, while a TypeScript supervisor on AWS retrieves durable context and vector memory from CockroachDB, resolves known issues, or safely escalates the request.
+- [OpenAI Build Week Hackathon - Skin care routine: Clean and Clear](https://github.com/ravindrasinghshah/clean-n-clear) - Clean n Clear is a responsive skincare routine curator for the US market. Users upload a selfie, add routine preferences, and receive a cosmetic skincare routine generated from Gemini image analysis plus rule-based safety constraints.
 
 ## 🔧 _Technologies & Tools
 ![](https://img.shields.io/badge/IDE-Cursor-informational?style=flat&logoColor=white&color=%23000000)
